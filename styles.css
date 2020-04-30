@@ -1,0 +1,19 @@
+body {
+  background: #16191d;
+  color: rgb(177, 198, 218);
+  font-family: sans-serif;
+}
+
+input {
+  display: block;
+  margin-bottom: 2rem;
+}
+
+#matrix {
+  background: #1a1e24;
+  border: 1px dashed rgb(57, 58, 63);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
